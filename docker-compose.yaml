@@ -1,0 +1,9 @@
+version: '3'
+services:
+    fastapi_app:
+        restart: always
+        build:
+            context: .
+            dockerfile: fastapi_app/Dockerfile
+        ports:
+            - "8888:8888"
