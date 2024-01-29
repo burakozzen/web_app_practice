@@ -21,3 +21,70 @@
 2024-01-29 21:38:39,624 - api - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.0004260540008544922}
 2024-01-29 21:38:39,624 - api - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.0004260540008544922}
 2024-01-29 21:38:39,624 - api - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.0004260540008544922}
+2024-01-29 19:55:09,048 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-29 19:55:09,048 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-29 19:55:22,539 - api - INFO - {'msg': 'Welcome home page !'}
+2024-01-29 19:55:22,539 - api - INFO - {'msg': 'Welcome home page !'}
+2024-01-29 19:55:22,542 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.0024192333221435547}
+2024-01-29 19:55:22,542 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.0024192333221435547}
+2024-01-29 19:55:22,542 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.0024192333221435547}
+2024-01-29 19:59:40,025 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 19:59:40,025 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 19:59:40,025 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:00:16,403 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-29 20:00:16,403 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-29 20:01:35,859 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:01:35,859 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:03:13,026 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-29 20:03:13,026 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-29 20:06:51,280 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:06:51,280 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:07:08,886 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-29 20:07:08,886 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-29 20:07:25,804 - api - INFO - {'msg': 'Welcome home page !'}
+2024-01-29 20:07:25,804 - api - INFO - {'msg': 'Welcome home page !'}
+2024-01-29 20:07:25,806 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.0013301372528076172}
+2024-01-29 20:07:25,806 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.0013301372528076172}
+2024-01-29 20:07:25,806 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.0013301372528076172}
+2024-01-29 20:07:26,485 - api - INFO - {'msg': 'Welcome home page !'}
+2024-01-29 20:07:26,485 - api - INFO - {'msg': 'Welcome home page !'}
+2024-01-29 20:07:26,485 - api - INFO - {'msg': 'Welcome home page !'}
+2024-01-29 20:07:26,488 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.002286672592163086}
+2024-01-29 20:07:26,488 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.002286672592163086}
+2024-01-29 20:07:26,488 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.002286672592163086}
+2024-01-29 20:07:26,488 - api - INFO - {'url': '/home', 'method': 'GET', 'process_time': 0.002286672592163086}
+2024-01-29 20:07:30,035 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:07:30,035 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:07:30,035 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:07:30,035 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:07:30,038 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.002031564712524414}
+2024-01-29 20:07:30,038 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.002031564712524414}
+2024-01-29 20:07:30,038 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.002031564712524414}
+2024-01-29 20:07:30,038 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.002031564712524414}
+2024-01-29 20:07:30,038 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.002031564712524414}
+2024-01-29 20:08:48,863 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00757908821105957}
+2024-01-29 20:08:48,863 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00757908821105957}
+2024-01-29 20:08:48,863 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00757908821105957}
+2024-01-29 20:08:48,863 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00757908821105957}
+2024-01-29 20:08:48,863 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00757908821105957}
+2024-01-29 20:08:48,863 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00757908821105957}
+2024-01-29 20:09:23,748 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:09:23,748 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:09:23,748 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:09:23,748 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:09:23,748 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:09:23,748 - api - INFO - {'msg': 'Welcome home/test page !'}
+2024-01-29 20:09:23,749 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.0016217231750488281}
+2024-01-29 20:09:23,749 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.0016217231750488281}
+2024-01-29 20:09:23,749 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.0016217231750488281}
+2024-01-29 20:09:23,749 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.0016217231750488281}
+2024-01-29 20:09:23,749 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.0016217231750488281}
+2024-01-29 20:09:23,749 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.0016217231750488281}
+2024-01-29 20:09:23,749 - api - INFO - {'url': '/home/test', 'method': 'GET', 'process_time': 0.0016217231750488281}
+2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}

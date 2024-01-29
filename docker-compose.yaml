@@ -7,3 +7,39 @@ services:
             dockerfile: fastapi_app/Dockerfile
         ports:
             - "8888:8888"
+        depends_on:
+            - elasticsearch
+        volumes:
+            - ./logs:/app/logs
+
+
+    elasticsearch:
+        image: docker.elastic.co/elasticsearch/elasticsearch:7.15.0
+        ports:
+            - "9200:9200"
+        environment:
+            - discovery.type=single-node
+
+
+    kibana:
+        image: docker.elastic.co/kibana/kibana:7.15.0
+        ports:
+            - "5601:5601"
+        depends_on:
+            - elasticsearch
+
+
+    filebeat:
+        build:
+            context: ./filebeat
+        container_name: filebeat
+        volumes:
+            - ./logs:/app/logs
+        depends_on:
+            - elasticsearch
+            - kibana
+
+
+volumes:
+    elasticsearch_data:
+        driver: local
