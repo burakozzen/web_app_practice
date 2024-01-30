@@ -33,9 +33,10 @@ def init_app():
         msg = {'msg': "Welcome home on main.py !"}
         return msg
 
-    from fastapi_app.controllers import home
+    from fastapi_app.controllers import home, index
 
     apps.include_router(home.router)
+    apps.include_router(index.router)
 
     return apps
 
