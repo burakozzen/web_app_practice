@@ -88,3 +88,171 @@
 2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}
 2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}
 2024-01-29 20:09:46,750 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:22:34,870 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-30 19:22:34,870 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-30 19:22:34,870 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-30 19:22:52,787 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0010199546813964844}
+2024-01-30 19:22:52,787 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0010199546813964844}
+2024-01-30 19:22:52,787 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0010199546813964844}
+2024-01-30 19:22:52,787 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0010199546813964844}
+2024-01-30 19:23:04,756 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004875659942626953}
+2024-01-30 19:23:04,756 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004875659942626953}
+2024-01-30 19:23:04,756 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004875659942626953}
+2024-01-30 19:23:04,756 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004875659942626953}
+2024-01-30 19:23:04,756 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004875659942626953}
+2024-01-30 19:23:10,989 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0022554397583007812}
+2024-01-30 19:23:10,989 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0022554397583007812}
+2024-01-30 19:23:10,989 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0022554397583007812}
+2024-01-30 19:23:10,989 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0022554397583007812}
+2024-01-30 19:23:10,989 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0022554397583007812}
+2024-01-30 19:23:10,989 - api - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0022554397583007812}
+2024-01-30 19:23:19,690 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00038313865661621094}
+2024-01-30 19:23:19,690 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00038313865661621094}
+2024-01-30 19:23:19,690 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00038313865661621094}
+2024-01-30 19:23:19,690 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00038313865661621094}
+2024-01-30 19:23:19,690 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00038313865661621094}
+2024-01-30 19:23:19,690 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00038313865661621094}
+2024-01-30 19:23:19,690 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00038313865661621094}
+2024-01-30 19:23:19,697 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:23:19,697 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:23:19,697 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:23:19,697 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:23:19,697 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:23:19,697 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:23:19,697 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:23:19,701 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.004049777984619141}
+2024-01-30 19:23:19,701 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.004049777984619141}
+2024-01-30 19:23:19,701 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.004049777984619141}
+2024-01-30 19:23:19,701 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.004049777984619141}
+2024-01-30 19:23:19,701 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.004049777984619141}
+2024-01-30 19:23:19,701 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.004049777984619141}
+2024-01-30 19:23:19,701 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.004049777984619141}
+2024-01-30 19:23:19,701 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.004049777984619141}
+2024-01-30 19:23:23,673 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004329681396484375}
+2024-01-30 19:23:23,673 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004329681396484375}
+2024-01-30 19:23:23,673 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004329681396484375}
+2024-01-30 19:23:23,673 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004329681396484375}
+2024-01-30 19:23:23,673 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004329681396484375}
+2024-01-30 19:23:23,673 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004329681396484375}
+2024-01-30 19:23:23,673 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004329681396484375}
+2024-01-30 19:23:23,673 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004329681396484375}
+2024-01-30 19:23:23,673 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0004329681396484375}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:42,188 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.0002560615539550781}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:45,406 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.00045990943908691406}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,850 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.00041866302490234375}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,860 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:25:49,868 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.007613658905029297}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:26:15,160 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:27:45,380 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-30 19:27:45,380 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-30 19:27:45,380 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-30 19:27:58,188 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.0006849765777587891}
+2024-01-30 19:27:58,188 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.0006849765777587891}
+2024-01-30 19:27:58,188 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.0006849765777587891}
+2024-01-30 19:27:58,188 - api - INFO - {'url': '/index', 'method': 'GET', 'process_time': 0.0006849765777587891}
+2024-01-30 19:27:58,193 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:27:58,193 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:27:58,193 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:27:58,193 - api - INFO - {'msg': 'Welcome index page !'}
+2024-01-30 19:27:58,195 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.002812623977661133}
+2024-01-30 19:27:58,195 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.002812623977661133}
+2024-01-30 19:27:58,195 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.002812623977661133}
+2024-01-30 19:27:58,195 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.002812623977661133}
+2024-01-30 19:27:58,195 - api - INFO - {'url': '/index/', 'method': 'GET', 'process_time': 0.002812623977661133}
+2024-01-30 19:28:01,822 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0015587806701660156}
+2024-01-30 19:28:01,822 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0015587806701660156}
+2024-01-30 19:28:01,822 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0015587806701660156}
+2024-01-30 19:28:01,822 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0015587806701660156}
+2024-01-30 19:28:01,822 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0015587806701660156}
+2024-01-30 19:28:01,822 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0015587806701660156}
+2024-01-30 19:28:05,330 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:28:05,330 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:28:05,330 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:28:05,330 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:28:05,330 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:28:05,330 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:28:21,399 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-30 19:28:21,399 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-30 19:28:21,399 - api - INFO - {'msg': '--- Start up App ---'}
+2024-01-30 19:28:47,625 - api - INFO - {'msg': "Welcome index/1 page {'name': 'Milk', 'price': 3.99, 'brand': 'Regular'}!"}
+2024-01-30 19:28:47,625 - api - INFO - {'msg': "Welcome index/1 page {'name': 'Milk', 'price': 3.99, 'brand': 'Regular'}!"}
+2024-01-30 19:28:47,625 - api - INFO - {'msg': "Welcome index/1 page {'name': 'Milk', 'price': 3.99, 'brand': 'Regular'}!"}
+2024-01-30 19:28:47,629 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0037207603454589844}
+2024-01-30 19:28:47,629 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0037207603454589844}
+2024-01-30 19:28:47,629 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0037207603454589844}
+2024-01-30 19:28:47,629 - api - INFO - {'url': '/index/1', 'method': 'GET', 'process_time': 0.0037207603454589844}
+2024-01-30 19:29:52,602 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.005205869674682617}
+2024-01-30 19:29:52,602 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.005205869674682617}
+2024-01-30 19:29:52,602 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.005205869674682617}
+2024-01-30 19:29:52,602 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.005205869674682617}
+2024-01-30 19:29:52,602 - api - INFO - {'url': '/index/2', 'method': 'GET', 'process_time': 0.005205869674682617}
+2024-01-30 19:30:48,083 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:30:48,083 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:30:48,083 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:30:48,083 - api - INFO - {'msg': '--- Shut down App ---'}
+2024-01-30 19:30:48,083 - api - INFO - {'msg': '--- Shut down App ---'}
